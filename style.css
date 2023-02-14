@@ -34,7 +34,7 @@ body {
     display: grid;
     grid-template-columns: 1fr clamp(320px, 40%, 350px) 1fr;
     row-gap: 10vh;
-    grid-template-rows: 0.4fr clamp(360px, 40%, 600px) 0.4fr;
+    grid-template-rows: 0.4fr clamp(360px, 50%, 600px) 0.4fr;
     grid-template-areas:
         '. . .'
         '. card .'
