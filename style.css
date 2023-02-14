@@ -96,6 +96,7 @@ footer.attribution {
 .attribution div {
     margin: 1em 1.5em;
     width: fit-content;
+    font-size: calc(var(--fontSize) - 3px);
 }
 
 footer.attribution a {
