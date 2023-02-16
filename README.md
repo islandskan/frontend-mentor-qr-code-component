@@ -80,7 +80,7 @@ body {
 -   I want to work more with dynamic grid layouts, since they made it so easy to set a responsive layout without having a lot of media queries. I still struggle a bit to fully understand `auto-fill`, `auto-fit`, `min-max`, and `clamp()`.
 -   I would like to use `clamp()` for other things like font-sizes, paddings, and animations.
 -   When I finally got Grunt.js to work, I really enjoyed it! However, all of the vulnerabilites in the grunt package and the imaginemin plugins are a bit alarming. The fact that most of them are listed as "unmaintained projects" and/or haven't been updated in the last 2-3 years" doesn't help😰
--   So I'm going to learn more about task runners and task automation in general and try some other tools in the next projects!
+-   So I'm going to learn more about task runners and task automation in general and try some other build tools in the next projects!
 
 ### Useful resources
 
