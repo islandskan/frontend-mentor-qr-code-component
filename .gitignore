@@ -17,3 +17,9 @@
 
 # Ignore the README template
 README-template.md
+
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore node_modules
+node_modules/
